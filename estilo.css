@@ -1,0 +1,17 @@
+.body{
+    margin-top: 100px;
+    font-size: 16px;
+    background: url(images/bg-intro-desktop.png),
+                    hsl(0, 100%, 74%);
+}
+.bot{
+    margin-top: -45px;
+}
+.formu{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    background: white;
+}
+
