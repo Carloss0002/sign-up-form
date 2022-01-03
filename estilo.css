@@ -5,7 +5,7 @@
                     hsl(0, 100%, 74%);
 }
 .bot{
-    margin-top: -45px;
+    margin-top: -30px;
 }
 .formu{
     margin-top: 10px;
@@ -14,4 +14,13 @@
     border-radius: 10px;
     background: white;
 }
-
+.term{
+    color: red;
+}
+.validate {
+    display: none;
+}
+.failed{
+    color: red;
+    display: inline;
+}
