@@ -7,11 +7,11 @@ function that() {
   var lname = document.getElementById('last').value
   var Fname = document.getElementById('First').value
 
-  if (Fname == ' ') {
+  if (Fname == '') {
     document.getElementById('requiredname').className = "failed"
   }
   
-  if(lname == ' '){
+  if(lname == ''){
     document.getElementById('yourlast').className = "failed"
   }
 
